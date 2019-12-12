@@ -7656,6 +7656,11 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
+isolated-theme-ui@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/isolated-theme-ui/-/isolated-theme-ui-1.0.1.tgz#197d79bafb68d452aee5ba35509252b9ffb2af06"
+  integrity sha512-FuCafGqck/vvbaL6AGakCXq9VzoH101pOTqwQ3UOm9hRWfkk4imxNOLtgZqD23KLlb0wjhX/j4qmR9p8vprDgQ==
+
 isomorphic-fetch@^2.1.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/isomorphic-fetch/-/isomorphic-fetch-2.2.1.tgz#611ae1acf14f5e81f729507472819fe9733558a9"
@@ -12341,7 +12346,7 @@ text-table@0.2.0, text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
-theme-ui@^0.2.44:
+theme-ui@0.2.49, theme-ui@^0.2.44:
   version "0.2.49"
   resolved "https://registry.yarnpkg.com/theme-ui/-/theme-ui-0.2.49.tgz#3803952907e74e6835d40b063aed0d46c213e2d9"
   integrity sha512-hgULYonGu8iY3delv/GrMx4L/3nAJyEu55gEAAK3GDKVEVf4VNng3lM9/tgx4kUizTFVEB5MN5y+1JTHHOQLXQ==
